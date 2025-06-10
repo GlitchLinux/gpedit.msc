@@ -1,5 +1,3 @@
-# **Ultimate Guide to Cool Group Policy Edits (With CMD & PowerShell Commands)**  
-
 This guide provides **command-line equivalents** (PowerShell & CMD) for each `gpedit.msc` tweak, allowing you to automate changes without opening the GUI.  
 
 ---
